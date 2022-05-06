@@ -1,4 +1,4 @@
-timestamp,Catania Temperature [2 m elevation corrected],Catania Temperature [2 m elevation corrected],Catania Temperature [2 m elevation corrected]
+timestamp,Catania-maxTemp,Catania-minTemp,Catania-medTemp
 20220422T0000,23.61149,10.041491,16.250238
 20220423T0000,19.62149,9.66149,15.693989
 20220424T0000,28.78149,12.68149,18.661491
