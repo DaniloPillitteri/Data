@@ -1,12 +1,3 @@
-location,Catania,Catania,Catania
-lat,37.49533,37.49533,37.49533
-lon,15.05969,15.05969,15.05969
-asl,68.768,68.768,68.768
-variable,Temperature,Temperature,Temperature
-unit,°C,°C,°C
-level,2 m elevation corrected,2 m elevation corrected,2 m elevation corrected
-resolution,daily,daily,daily
-aggregation,Maximum,Minimum,Mean
 timestamp,Catania Temperature [2 m elevation corrected],Catania Temperature [2 m elevation corrected],Catania Temperature [2 m elevation corrected]
 20220422T0000,23.61149,10.041491,16.250238
 20220423T0000,19.62149,9.66149,15.693989
